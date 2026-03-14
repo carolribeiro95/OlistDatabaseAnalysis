@@ -2,6 +2,11 @@ Esse projeto consiste na criação de um banco de dados relacional da base de da
 (fonte:https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) e manipulação dos dados para responder algumas perguntas e 
 calcular alguns KPI's de vendas.
 
+Organização dos Dados
+<img width="2486" height="1496" alt="Image" src="https://github.com/user-attachments/assets/db2520ed-8cf8-47f0-9425-41faacadfe94" />
+Fonte: Brazilian E-Commerce Public Dataset by Olis from Kaggle
+
+
 Etapas:
 
 1) ETL com a biblioteca Pandas do Python:
