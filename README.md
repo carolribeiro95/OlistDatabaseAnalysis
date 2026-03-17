@@ -25,5 +25,21 @@ Fonte: Brazilian E-Commerce Public Dataset by Olis from Kaggle
      - Taxa de conversão de pagamento
      - Taxa de aprovação de pedidos
      - Ticket médio
-     - Lifetime value - LVT
-     -Quais as categorias de produtos mais venderam por ano?
+     - Quais as categorias de produtos mais venderam por ano?
+
+## Resultados
+O ano de 2017 foi escolhido para a análise visto que os dados mensais desse ano estão completos.
+
+- Podemos observar que há uma concentração de mercado com o estado de São Paulo dominando mais de 50% do faturamento total.
+  
+- O negócio operou acima da média de faturamento à partir do segundo semestre de 2017 com um pico de faturamento no mês de Novembro, demonstrando eficiência da semana de "Black Friday".
+  
+-  A cateogoria de "Relógios e Presentes" apresentam o maior ticket médio (R$231.79), porém estão em segundo lugar no ranking de faturamento total, perdendo para a categoria "Cama Mesa e Banho", que apresentou maior faturamento, maior volume de vendas e um ticket médio baixo de R$110.69.
+
+-  As 3 categorias com maior com maior volume de vendas, representaram mais de 36% do faturamento total com um ticket médio abaixo da média geral, o que oferece uma oportunidade para o time de marketing reforçar a fidelidade dos clientes que compram nessas categorias.
+
+-  48% dos clientes são responsáveis por 80% do faturamento total em 2017.
+
+<img width="776" height="88" alt="Image" src="https://github.com/user-attachments/assets/3e896315-9353-4b46-b681-152f031598e5" />
+
+<img width="1145" height="632" alt="Image" src="https://github.com/user-attachments/assets/ac21df58-b2ef-4aea-9b87-825259661abf" />
