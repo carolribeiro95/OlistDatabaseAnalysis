@@ -34,7 +34,7 @@ O ano de 2017 foi escolhido para a análise visto que os dados mensais desse ano
   
 - O negócio operou acima da média de faturamento à partir do segundo semestre de 2017 com um pico de faturamento no mês de Novembro, demonstrando eficiência da semana de "Black Friday".
   
--  A cateogoria de "Relógios e Presentes" apresentam o maior ticket médio (R$231.79), porém estão em segundo lugar no ranking de faturamento total, perdendo para a categoria "Cama Mesa e Banho", que apresentou maior faturamento, maior volume de vendas e um ticket médio baixo de R$110.69.
+-  A categoria de "Relógios e Presentes" apresentam o maior ticket médio (R$231.79), porém estão em segundo lugar no ranking de faturamento total, perdendo para a categoria "Cama Mesa e Banho", que apresentou maior faturamento, maior volume de vendas e um ticket médio baixo de R$110.69.
 
 -  As 3 categorias com maior com maior volume de vendas, representaram mais de 36% do faturamento total com um ticket médio abaixo da média geral, o que oferece uma oportunidade para o time de marketing reforçar a fidelidade dos clientes que compram nessas categorias.
 
